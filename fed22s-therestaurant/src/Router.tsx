@@ -7,7 +7,6 @@ import { Admin } from "./components/Admin";
 import { BookingComponent } from "./components/BookingComponent";
 import { CancelBooking } from "./components/CancelBooking";
 import { CancelConfirmation } from "./components/CancelConfirmation";
-import { CancelLayout } from "./components/CancelLayout";
 
 export const router = createBrowserRouter([
   {
