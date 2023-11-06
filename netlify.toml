@@ -1,5 +1,5 @@
 [build]
   command = "npm run build"
   functions = "netlify/functions"
-  base = "the-restaurant-grupp11/fed22s-therestaurant" 
+  base = "the-restaurant-grupp11" 
   publish = "build"
